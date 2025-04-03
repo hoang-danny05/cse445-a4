@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="Hotels.xsd"?>
+<Hotels>
+    <Hotel Rating="4.2">
+        <Name>La Quinta</Name>
+        <Phone>949-689-3333</Phone>
+        <Phone>123-555-3333</Phone>
+        <Address nearestairport="LAX">
+            <Number>11</Number>
+            <Street>E.7th Streep</Street>
+            <City>Irvine</City>
+            <State>CA</State>
+            <Zip>12345</Zip>
+        </Address>
+    </Hotel>
+    <Hotel>
+        <Name>La Quinta</Name>
+        <Phone>123-555-3333</Phone>
+        <Address nearestairport="PHX">
+            <Number>12</Number>
+            <Street>E.7th St.</Street>
+            <City>Prescott</City>
+            <State>AZ</State>
+            <Zip>12345</Zip>
+        </Address>
+    </Hotel>
+</Hotels>
