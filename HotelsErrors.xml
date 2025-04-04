@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="template_correct.xsd"?>
+<?xml-model href="Hotels.xsd"?>
 <Hotel>
     <Hotel Rating="4.2">
         <Name>La Quinta</Name>
@@ -16,7 +16,7 @@
 
     <Hotel>
         <Name>La Quinta</Name>
-        <Address nearestairport="PHX">
+        <Address NearstAirport="PHX">
             <Number>12</Number>
             <Street>E.7th St.</Street>
             <City>Prescott</City>
@@ -29,7 +29,7 @@
         <Name>La Quinta</Name>
         <Name>La Quinta</Name>
         <Phone>123-555-3333</Phone>
-        <Address nearestairport="PHX">
+        <Address NearstAirport="PHX">
             <Number>12</Number>
             <Street>E.7th St.</Street>
             <City>Prescott</City>
@@ -41,7 +41,7 @@
     <Hotel>
         <Name>La Quinta</Name>
         <Phone>123-555-3333</Phone>
-        <Address nearestairport="PHX">
+        <Address NearstAirport="PHX">
             <Number>12</Number>
             <Street>E.7th St.</Street>
             <City>Prescott</City>

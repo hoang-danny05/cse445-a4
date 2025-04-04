@@ -5,7 +5,7 @@
         <Name>La Quinta</Name>
         <Phone>949-689-3333</Phone>
         <Phone>123-555-3333</Phone>
-        <Address nearestairport="LAX">
+        <Address NearstAirport="LAX">
             <Number>11</Number>
             <Street>E.7th Streep</Street>
             <City>Irvine</City>
@@ -16,7 +16,7 @@
     <Hotel>
         <Name>La Quinta</Name>
         <Phone>123-555-3333</Phone>
-        <Address nearestairport="PHX">
+        <Address NearstAirport="PHX">
             <Number>12</Number>
             <Street>E.7th St.</Street>
             <City>Prescott</City>

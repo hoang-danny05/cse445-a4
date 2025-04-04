@@ -58,6 +58,9 @@
                 <xsl:text>",
                 "Zip": "</xsl:text>
                 <xsl:value-of select="Address/Zip"/>
+                <xsl:text>",
+                "_NearestAirport": "</xsl:text>
+                <xsl:value-of select="Address/@NearstAirport"/>
                 <xsl:text>"</xsl:text>
             <xsl:text>}</xsl:text>
 
